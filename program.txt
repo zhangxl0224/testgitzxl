@@ -6,3 +6,7 @@ method()
 {
    printf("my name is Lily\n");
 }
+metode2()
+{
+  printf("1+2=%d\n",3);
+}
