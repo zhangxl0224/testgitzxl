@@ -1,0 +1,4 @@
+void method2()
+{
+  printf("Hello Git!\n");
+}
