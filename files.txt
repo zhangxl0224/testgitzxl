@@ -10,4 +10,4 @@ void show()
 {
   string name="Lucy";
   printf("show name is %s",name.c_str());
-}
+} method(){printf("new change!")};
