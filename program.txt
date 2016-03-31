@@ -1,12 +1,1 @@
-void main()
-{
-   printf("Hello World!\n");
-}
-method()
-{
-   printf("my name is Lily\n");
-}
-metode2()
-{
-  printf("1+2=%d\n",3);
-}
+How dou you do!
